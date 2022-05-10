@@ -1,4 +1,4 @@
-# 📬 purescript-fetch
+# 📬 purescript-yoga-fetch
 
 A simple wrapper for the JavaScript fetch API.
 
@@ -13,4 +13,4 @@ A simple wrapper for the JavaScript fetch API.
 
 ## Migrate from `purescript-milkis`
 
-`purescript-fetch` is a drop-in replacement for `purescript-milkis`. Just change the imports from `Milkis` to `Fetch`.
+`purescript-yoga-fetch` is a drop-in replacement for `purescript-milkis`. Just change the imports from `Milkis` to `Fetch`.

@@ -5,5 +5,7 @@ in      conf
         , dependencies =
               conf.dependencies
             # [ "spec"
+              , "either"
+              , "strings"
               ]
         }

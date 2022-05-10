@@ -20,7 +20,7 @@ fetch = Fetch.fetch nodeFetch
 
 main ∷ Effect Unit
 main = launchAff_ $ runSpec [ consoleReporter ] do
-  describe "purescript-fetch" do
+  describe "purescript-yoga-fetch" do
     it "get works and gets a body" do
       _response ← attempt $ fetch (Fetch.URL "https://www.google.com")
         Fetch.defaultFetchOptions

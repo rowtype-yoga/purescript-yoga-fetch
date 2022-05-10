@@ -1,11 +1,11 @@
 {
-    "name": "purescript-fetch",
+    "name": "purescript-yoga-fetch",
     "license": [
         "MIT"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/rowtype-yoga/purescript-fetch.git"
+        "url": "https://github.com/rowtype-yoga/purescript-yoga-fetch.git"
     },
     "ignore": [
         "**/.*",
