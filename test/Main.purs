@@ -8,8 +8,8 @@ import Data.String (null)
 import Effect (Effect)
 import Effect.Aff (attempt, launchAff_)
 import Foreign.Object as Object
-import Fetch as Fetch
-import Fetch.Impl.Node (nodeFetch)
+import Yoga.Fetch as Fetch
+import Yoga.Fetch.Impl.Node (nodeFetch)
 import Test.Spec (describe, it)
 import Test.Spec.Assertions (fail, shouldEqual, shouldContain)
 import Test.Spec.Reporter.Console (consoleReporter)

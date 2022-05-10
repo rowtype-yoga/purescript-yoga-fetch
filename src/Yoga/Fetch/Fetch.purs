@@ -1,4 +1,4 @@
-module Fetch
+module Yoga.Fetch
   ( URL(..)
   , Fetch
   , Response
@@ -40,7 +40,7 @@ import Effect.Aff (Aff)
 import Foreign (Foreign)
 import Foreign.Object (Object)
 import Foreign.Object as Object
-import Fetch.Impl (FetchImpl)
+import Yoga.Fetch.Impl (FetchImpl)
 import Prelude (class Eq, class Show, ($))
 import Type.Row (class Union)
 import Unsafe.Coerce (unsafeCoerce)

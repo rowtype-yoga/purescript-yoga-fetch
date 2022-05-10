@@ -1,7 +1,7 @@
-module Fetch.Impl.Node
+module Yoga.Fetch.Impl.Node
   ( nodeFetch
   ) where
 
-import Fetch.Impl (FetchImpl)
+import Yoga.Fetch.Impl (FetchImpl)
 
 foreign import nodeFetch ∷ FetchImpl

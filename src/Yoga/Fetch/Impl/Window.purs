@@ -1,7 +1,7 @@
-module Fetch.Impl.Window
+module Yoga.Fetch.Impl.Window
   ( windowFetch
   ) where
 
-import Fetch.Impl (FetchImpl)
+import Yoga.Fetch.Impl (FetchImpl)
 
 foreign import windowFetch ∷ FetchImpl
