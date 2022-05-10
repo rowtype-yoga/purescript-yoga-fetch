@@ -1,4 +1,6 @@
 { name = "purescript-fetch"
+, license = "MIT"
+, repository = "https://github.com/rowtype-yoga/purescript-fetch.git"
 , dependencies =
   [ "aff"
   , "aff-promise"
