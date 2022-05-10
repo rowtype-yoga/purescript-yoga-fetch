@@ -1,26 +1,30 @@
 {
-  "name": "purescript-fetch",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "output",
-    "test",
-    "tests"
-  ],
-  "dependencies": {
-    "purescript-prelude": "^6.0.0",
-    "purescript-aff-promise": "^4.0.0",
-    "purescript-typelevel-prelude": "^7.0.0",
-    "purescript-foreign-object": "^4.0.0",
-    "purescript-arraybuffer-types": "^4.0.0"
-  },
-  "devDependencies": {
-    "purescript-spec": "^7.0.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/rowtype-yoga/purescript-fetch.git"
-  },
-  "license": "MIT"
+    "name": "purescript-fetch",
+    "license": [
+        "MIT"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rowtype-yoga/purescript-fetch.git"
+    },
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "output"
+    ],
+    "dependencies": {
+        "purescript-aff": "^v7.0.0",
+        "purescript-aff-promise": "^v4.0.0",
+        "purescript-arraybuffer-types": "^v3.0.2",
+        "purescript-effect": "^v4.0.0",
+        "purescript-either": "^v6.0.0",
+        "purescript-foreign": "^v7.0.0",
+        "purescript-foreign-object": "^v4.0.0",
+        "purescript-newtype": "^v5.0.0",
+        "purescript-prelude": "^v6.0.0",
+        "purescript-strings": "^v6.0.0",
+        "purescript-typelevel-prelude": "^v7.0.0",
+        "purescript-unsafe-coerce": "^v6.0.0"
+    }
 }
