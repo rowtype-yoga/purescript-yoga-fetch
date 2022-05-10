@@ -1,0 +1,26 @@
+{
+  "name": "purescript-fetch",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "purescript-prelude": "^6.0.0",
+    "purescript-aff-promise": "^4.0.0",
+    "purescript-typelevel-prelude": "^7.0.0",
+    "purescript-foreign-object": "^4.0.0",
+    "purescript-arraybuffer-types": "^4.0.0"
+  },
+  "devDependencies": {
+    "purescript-spec": "^7.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rowtype-yoga/purescript-fetch.git"
+  },
+  "license": "MIT"
+}

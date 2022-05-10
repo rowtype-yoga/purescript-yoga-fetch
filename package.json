@@ -1,0 +1,17 @@
+{
+  "name": "purescript-fetch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "build": "spago build",
+    "test": "spago -x test.dhall test"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.2.4"
+  }
+}
