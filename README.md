@@ -2,7 +2,7 @@
 
 A simple wrapper for the JavaScript fetch API.
 
-**Note**: This is a fork of [milkis](https://github.com/justinwoo/purescript-milkis) ([MIT Licence](./LICENCE/milkis.LICENSE)).
+**Note**: This is a fork of [milkis](https://github.com/justinwoo/purescript-milkis) ([MIT Licence](./LICENCE/purescript-milkis.LICENSE)).
 
 ## Table of Contents
 * [usage](#usage)
