@@ -36,4 +36,5 @@ jobs:
 
       - run: |
           npm install
+          spago build
           node --experimental-fetch test.js
