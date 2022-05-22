@@ -1,1 +1,1 @@
-export { default as nodeFetch } from 'node-fetch';
+export const nodeFetch = fetch;
